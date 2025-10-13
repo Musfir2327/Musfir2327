@@ -1,3 +1,6 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+</div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Musfir+Mohammed!;" />
 </h1>
@@ -108,4 +111,7 @@
   
 ![Snake animation](https://github.com/musfirofficial/musfirofficial/blob/output/github-contribution-grid-snake.svg)
   
+</div>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
