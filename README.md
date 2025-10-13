@@ -61,9 +61,9 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/musfirofficial" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-  <a href="https://instagram.com/musfir.mohammed" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
-  <a href="mailto:musfir@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+  <a href="[https://linkedin.com/in/musfirofficial](https://www.linkedin.com/in/mohammed-musfir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="[https://instagram.com/musfir.mohammed](https://www.instagram.com/mr.musfir_xlee?utm_source=qr)" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
+  <a href="mohammedmusfir81@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
 </p>
 
 ---
