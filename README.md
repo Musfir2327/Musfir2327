@@ -9,7 +9,7 @@
 - 🔭 Currently working with **React.js**, **Next.js**, and **Tailwind CSS**  
 - 🌱 Learning **TypeScript**, **API integration**, and **backend basics**  
 - 💬 Ask me about **frontend development**, **responsive UI**, and **SEO optimization**  
-- 📫 Reach me at **musfir@example.com**  
+- 📫 Reach me at **mohammedmusfir81@gmail.com**  
 - 🌐 My Site [(https://musfir2327.github.io/My-portfolio/)]
 ---
 
