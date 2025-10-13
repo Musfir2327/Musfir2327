@@ -24,8 +24,8 @@
 - 🚀 [QuickEats Customer Website](https://github.com/musfirofficial/quickeats-customer-website-frontend)  
 - 🚗 [DriveGrid Booking Explore](https://github.com/musfirofficial/drivegrid-booking-explore)  
 - 💼 [ZephyraTech Website](https://github.com/musfirofficial/zephyratech-website-frontend)
-- 🎬 **Big Door Productions Web** | Portfolio website for a production company | [View Repo](https://github.com/musfirofficial/big-door-productions-web) 
-| ✈️ **Quick Tours Web** | Travel website with interactive destinations and booking UI | [View Repo](https://github.com/musfirofficial/quick-tours-web) 
+- 🎬 [Big Door Productions Web](https://github.com/musfirofficial/big-door-productions-web) 
+- ✈️ [Quick Tours Web](https://github.com/musfirofficial/quick-tours-web) 
 ---
 
 ### 🏆 GitHub Trophies  
