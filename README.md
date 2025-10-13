@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musfir Mohammed</h1>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | React & Next.js Specialist</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Experiences+✨;Passionate+about+Clean+UI+%26+UX;Frontend+Developer+from+Sri+Lanka;Always+Learning+Something+New+💡" alt="Typing Animation" />
-</p>
+
 
 ---
 
@@ -26,7 +24,8 @@
 - 🚀 [QuickEats Customer Website](https://github.com/musfirofficial/quickeats-customer-website-frontend)  
 - 🚗 [DriveGrid Booking Explore](https://github.com/musfirofficial/drivegrid-booking-explore)  
 - 💼 [ZephyraTech Website](https://github.com/musfirofficial/zephyratech-website-frontend)
-
+- 🎬 **Big Door Productions Web** | Portfolio website for a production company | [View Repo](https://github.com/musfirofficial/big-door-productions-web) 
+| ✈️ **Quick Tours Web** | Travel website with interactive destinations and booking UI | [View Repo](https://github.com/musfirofficial/quick-tours-web) 
 ---
 
 ### 🏆 GitHub Trophies  
