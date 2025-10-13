@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Musfir Mohammed</h1>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musfirofficial&label=Profile%20views&color=0e75b6&style=flat" alt="musfirofficial" />
-</p>
+
 
 ---
 
@@ -12,7 +10,7 @@
 - 🌱 I’m currently learning **TypeScript and API Integration**
 - 💬 Ask me about **Frontend development, UI design, or SEO optimization**
 - 📫 How to reach me: **musfir@example.com**
-- 🌐 Portfolio: [zephyratech.com](https://zephyratech.com)
+- 🌐 Portfolio: (https://musfir2327.github.io/My-portfolio/)
 
 ---
 
@@ -24,7 +22,7 @@
 ---
 
 ### 🏗️ Projects
-- 🔹 [QuickEats Customer Website](https://github.com/musfirofficial/quickeats-customer-website-frontend)
+- 🔹 [QuickEats Customer Website]
 - 🔹 [DriveGrid Booking Explore](https://github.com/musfirofficial/drivegrid-booking-explore)
 - 🔹 [ZephyraTech Website](https://github.com/musfirofficial/zephyratech-website-frontend)
 
