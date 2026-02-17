@@ -1,293 +1,39 @@
-# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div> HI, I'M <span style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">MUSFIR MOHAMMED</span>
+Hi 👋, I'm Musfir Mohammed
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+%26+Next.js+Specialist;Building+Modern+Web+Experiences" alt="Typing SVG" /> </div><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+
+<div align="center"> <table align="center" border="0"> <tr> <td width="60%"> <ul> <li>🔭 Currently working with <b>React.js, Next.js, and Tailwind CSS</b></li> <li>🌱 Learning <b>TypeScript, API integration, and backend basics</b></li> <li>💬 Ask me about <b>frontend development, responsive UI, and SEO optimization</b></li> <li>📫 Reach me at <b>mohammedmusfir81@gmail.com</b></li> <li>⚡ Fun fact: <b>I turn coffee into code ☕ → 💻</b></li> <li>🌐 <b>Portfolio:</b> <a href="https://musfir2327.github.io/My-portfolio/">Visit My Portfolio</a></li> </ul> </td> <td width="40%"> <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> </td> </tr> </table> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=700&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Frontend+Architect;UI%2FUX+Visionary;React+Performance+Expert;Creative+Developer" alt="Typing SVG" />
+🚀 Frontend Development
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" /> </p>
+🛠️ Tools & Technologies
+<p align="center"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /> </p>
+📚 Currently Learning
+<p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> </p> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Featured Projects </b>
+
+<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🚀 QuickEats Customer Website</h3> <div align="center"> <a href="https://github.com/musfirofficial/quickeats-customer-website-frontend" target="_blank"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"> </a> <br> <p> <strong>React • Tailwind CSS • Redux • REST API</strong> </p> <p>Modern food delivery platform with real-time order tracking and seamless user experience.</p> <p> <a href="https://github.com/musfirofficial/quickeats-customer-website-frontend" target="_blank"> <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge&logo=vercel"/> </a> </p> </div> </td> <td width="50%"> <h3 align="center">🚗 DriveGrid Booking Explore</h3> <div align="center"> <a href="https://github.com/musfirofficial/drivegrid-booking-explore" target="_blank"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"> </a> <br> <p> <strong>Next.js • TypeScript • Tailwind • Prisma</strong> </p> <p>Car rental platform with advanced search filters, booking system, and user authentication.</p> <p> <a href="https://github.com/musfirofficial/drivegrid-booking-explore" target="_blank"> <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge&logo=vercel"/> </a> </p> </div> </td> </tr> <tr> <td width="50%"> <h3 align="center">💼 ZephyraTech Website</h3> <div align="center"> <a href="https://github.com/musfirofficial/zephyratech-website-frontend" target="_blank"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"> </a> <br> <p> <strong>React • Framer Motion • Styled Components</strong> </p> <p>Corporate website for tech company with modern animations and responsive design.</p> <p> <a href="https://github.com/musfirofficial/zephyratech-website-frontend" target="_blank"> <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge&logo=vercel"/> </a> </p> </div> </td> <td width="50%"> <h3 align="center">🎬 Big Door Productions</h3> <div align="center"> <a href="https://github.com/musfirofficial/big-door-productions-web" target="_blank"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"> </a> <br> <p> <strong>Next.js • GSAP • CSS Modules</strong> </p> <p>Production company portfolio with cinematic UI and smooth page transitions.</p> <p> <a href="https://github.com/musfirofficial/big-door-productions-web" target="_blank"> <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge&logo=vercel"/> </a> </p> </div> </td> </tr> <tr> <td width="50%" colspan="2"> <h3 align="center">✈️ Quick Tours Web</h3> <div align="center"> <a href="https://github.com/musfirofficial/quick-tours-web" target="_blank"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="50%"> </a> <br> <p> <strong>React • Bootstrap • Mapbox API</strong> </p> <p>Tour booking platform with interactive maps and itinerary planning features.</p> <p> <a href="https://github.com/musfirofficial/quick-tours-web" target="_blank"> <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge&logo=vercel"/> </a> </p> </div> </td> </tr> </table> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div>
+<img src="https://media.giphy.com/media/uhWLu2lsU0JSeUKewR/giphy.gif?cid=ecf05e47s6rn1we4q7zrmbh6vyf5nb3iknbhijtcc7i2jojy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"><b> GitHub Stats </b>
+
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=musfirofficial&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Musfir's GitHub Stats" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=musfirofficial&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=3B82F6&sideLabels=c9d1d9&dates=3B82F6" alt="GitHub Streak" /> </div>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfirofficial&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" /> <img width="49%" src="https://github-profile-trophy.vercel.app/?username=musfirofficial&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=musfirofficial&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=3B82F6&line=3B82F6" width="100%" alt="GitHub Activity Graph" /> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div>
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> Connect With Me
+
+<div align="center"> <a href="https://www.linkedin.com/in/mohammed-musfir" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/mr.musfir_xlee" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:mohammedmusfir81@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://musfir2327.github.io/My-portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=musfirofficial&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile views" />
+🎵 Coding with vibes
+https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff
+
 </div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" /> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"> </div><div align="center"> <h4>⭐️ From <a href="https://github.com/musfirofficial">Musfir Mohammed</a></h4> <p><i>Thanks for visiting! Let's build something amazing together 🚀</i></p>
+https://github.com/musfirofficial/musfirofficial/blob/output/github-contribution-grid-snake-dark.svg
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- 3D Floating Profile Card -->
-<div align="center">
-  <a href="https://musfir2327.github.io/My-portfolio/">
-    <img src="https://img.shields.io/badge/✨_Explore_My_Digital_Universe_-FF4155?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117" />
-  </a>
-</div>
-
-<br>
-
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="320" style="border-radius: 20px;" />
-</p>
-
----
-
-<!-- 3D Stats Cards with Glow Effect -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
-    <span style="background: linear-gradient(90deg, #ff6b6b, #4ecdc4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">GitHub Universe Stats</span>
-  </h2>
-</div>
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=musfirofficial&show_icons=true&count_private=true&hide_border=true&title_color=00E0FF&icon_color=00E0FF&text_color=c9d1d9&bg_color=0d1117&ring_color=00E0FF&border_radius=20&include_all_commits=true&custom_title=⚡%20Musfir's%20Cosmic%20Stats"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=musfirofficial&show_icons=true&count_private=true&hide_border=true&title_color=00E0FF&icon_color=00E0FF&text_color=c9d1d9&bg_color=0d1117&ring_color=00E0FF&border_radius=20&include_all_commits=true&custom_title=⚡%20Musfir's%20Cosmic%20Stats" />
-  </picture>
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=musfirofficial&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&stroke=00E0FF&ring=00E0FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00E0FF&sideLabels=c9d1d9&dates=00E0FF&border_radius=20"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=musfirofficial&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&stroke=00E0FF&ring=00E0FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00E0FF&sideLabels=c9d1d9&dates=00E0FF&border_radius=20" />
-  </picture>
-</div>
-
-<br>
-
-<!-- 3D Language Card -->
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=musfirofficial&layout=pie&hide_border=true&title_color=00E0FF&text_color=c9d1d9&bg_color=0d1117&border_radius=20&langs_count=8&custom_title=🔮%20Language%20Constellation"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfirofficial&layout=pie&hide_border=true&title_color=00E0FF&text_color=c9d1d9&bg_color=0d1117&border_radius=20&langs_count=8&custom_title=🔮%20Language%20Constellation" />
-  </picture>
-  
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=musfirofficial&theme=radical&no-frame=true&row=2&column=3&margin-w=20&margin-h=20&title_color=00E0FF&bg_color=0d1117"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=musfirofficial&theme=radical&no-frame=true&row=2&column=3&margin-w=20&margin-h=20&title_color=00E0FF&bg_color=0d1117" />
-  </picture>
-</div>
-
-<br>
-
-<!-- Animated Contribution Graph -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/l0MYEqEklMW0Zg1m8/giphy.gif" width="30px"/>
-    <span style="background: linear-gradient(90deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Contribution Galaxy</span>
-  </h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=musfirofficial&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00E0FF&line=00E0FF&point=FF6B6B&area_color=00E0FF&custom_title=🌟%20Musfir's%20Contribution%20Universe" width="95%" />
-</div>
-
----
-
-<!-- 3D Tech Stack Cards -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="40px"/>
-    <span style="background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #667EEA); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Tech Arsenal</span>
-  </h2>
-</div>
-
-<br>
-
-<!-- Animated Tech Icons with Hover Effects -->
-<div align="center">
-  <h3>🎨 Frontend Magic</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=0D1117" />
-  </p>
-  
-  <h3>⚙️ Development Universe</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117" />
-  </p>
-</div>
-
-<br>
-
-<!-- 3D Skill Bars -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30px"/>
-    <span style="background: linear-gradient(90deg, #667EEA, #764BA2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Skill Proficiency</span>
-  </h2>
-</div>
-
-<div align="center">
-  <table width="100%" border="0">
-    <tr>
-      <td width="50%">
-        <h4>React & Next.js</h4>
-        <div style="background: linear-gradient(90deg, #00E0FF 95%, #2D3748 95%); width: 100%; height: 25px; border-radius: 12px;"></div>
-        <h4>JavaScript/TypeScript</h4>
-        <div style="background: linear-gradient(90deg, #00E0FF 92%, #2D3748 92%); width: 100%; height: 25px; border-radius: 12px;"></div>
-        <h4>UI/UX Design</h4>
-        <div style="background: linear-gradient(90deg, #00E0FF 88%, #2D3748 88%); width: 100%; height: 25px; border-radius: 12px;"></div>
-      </td>
-      <td width="50%">
-        <h4>Performance Optimization</h4>
-        <div style="background: linear-gradient(90deg, #FF6B6B 85%, #2D3748 85%); width: 100%; height: 25px; border-radius: 12px;"></div>
-        <h4>Responsive Design</h4>
-        <div style="background: linear-gradient(90deg, #FF6B6B 94%, #2D3748 94%); width: 100%; height: 25px; border-radius: 12px;"></div>
-        <h4>API Integration</h4>
-        <div style="background: linear-gradient(90deg, #FF6B6B 87%, #2D3748 87%); width: 100%; height: 25px; border-radius: 12px;"></div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- 3D Project Showcase -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6RQE/giphy.gif" width="35px"/>
-    <span style="background: linear-gradient(90deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Featured Creations</span>
-  </h2>
-</div>
-
-<div align="center">
-  <table width="100%" border="0">
-    <tr>
-      <td width="33%" align="center">
-        <div style="background: linear-gradient(145deg, #0D1117, #1A1F2B); border-radius: 20px; padding: 20px; box-shadow: 0 10px 30px -10px rgba(0,224,255,0.3);">
-          <h3>🚀 QuickEats</h3>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-          <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux" />
-          <p>Food delivery platform with real-time tracking</p>
-          <a href="https://github.com/musfirofficial/quickeats-customer-website-frontend">
-            <img src="https://img.shields.io/badge/Code-View_Project-00E0FF?style=for-the-badge&logo=github" />
-          </a>
-        </div>
-      </td>
-      <td width="33%" align="center">
-        <div style="background: linear-gradient(145deg, #0D1117, #1A1F2B); border-radius: 20px; padding: 20px; box-shadow: 0 10px 30px -10px rgba(255,107,107,0.3);">
-          <h3>🚗 DriveGrid</h3>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
-          <p>Car rental platform with advanced booking</p>
-          <a href="https://github.com/musfirofficial/drivegrid-booking-explore">
-            <img src="https://img.shields.io/badge/Code-View_Project-FF6B6B?style=for-the-badge&logo=github" />
-          </a>
-        </div>
-      </td>
-      <td width="33%" align="center">
-        <div style="background: linear-gradient(145deg, #0D1117, #1A1F2B); border-radius: 20px; padding: 20px; box-shadow: 0 10px 30px -10px rgba(76,205,196,0.3);">
-          <h3>🎬 Big Door</h3>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
-          <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" />
-          <p>Production portfolio with cinematic UI</p>
-          <a href="https://github.com/musfirofficial/big-door-productions-web">
-            <img src="https://img.shields.io/badge/Code-View_Project-4ECDC4?style=for-the-badge&logo=github" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- Animated Snake Grid -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30px"/>
-    <span style="background: linear-gradient(90deg, #667EEA, #764BA2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Contribution Snake</span>
-  </h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/musfirofficial/musfirofficial/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/musfirofficial/musfirofficial/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/musfirofficial/musfirofficial/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-<!-- 3D Connect Section -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px"/>
-    <span style="background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #667EEA); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Let's Connect & Create Magic</span>
-  </h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/mohammed-musfir">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.instagram.com/mr.musfir_xlee">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:mohammedmusfir81@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://musfir2327.github.io/My-portfolio/">
-          <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- Spotify Now Playing -->
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31towbpg7sqt22tskg4bylq7fs3i&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31towbpg7sqt22tskg4bylq7fs3i&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=00E0FF&bar_color_cover=true" />
-  </a>
-</div>
-
-<br>
-
-<!-- Dynamic Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" width="80%" />
-</div>
-
-<br>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=✨%20Thanks%20for%20visiting%20✨&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=musfirofficial&label=🌟%20Galactic%20Visitors&color=00E0FF&style=for-the-badge" alt="Profile views" />
-  </p>
-  
-  <h3>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    <span style="background: linear-gradient(90deg, #00E0FF, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">From Musfir Mohammed</span>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  </h3>
-  
-  <p><i>⚡ Let's build the future, one commit at a time ⚡</i></p>
-  
-  <!-- Animated Starfield -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:00E0FF,100:0D1117&height=2&section=footer"/>
 </div>
